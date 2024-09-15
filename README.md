@@ -3,7 +3,8 @@
 ## Tommy Flowers (1905 - 1998)
 
 ![Tommy Flowers za druhé světové války během jeho práce v Bletchley Park](https://upload.wikimedia.org/wikipedia/commons/8/84/Tommy_Flowers.jpg)
-(Tommy Flowers za druhé světové války během jeho práce v Bletchley Park, obrázek z Wikipedie)
+
+(Tommy Flowers za druhé světové války během jeho práce v Bletchley Park, obrázek z [Wikipedie](https://en.wikipedia.org/wiki/Tommy_Flowers#/media/File:Tommy_Flowers.jpg))
 
 Thomas Harold Flowers byl britský elektroinženýr a velmi důležitá osobnost ve ranném vývoji počítačů. Během druhé světové války vynalezl první elektrický programovatelný digitální počítač na světě, "Colossus", který byl použit k dešifrování zpráv z německé šifry Lorenz. Měl ženu a dvě děti.
 
